@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm addicted to Minecraft, and I use arch (btw). I'm currently working on Novymap, which is a custom map for the Minecraft server Novylen (mc.novylen.net) the oldest server. My self-hosted forgejo git website: https://git.daktoinc.co.uk
 <!--
 **Daktoo/Daktoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
